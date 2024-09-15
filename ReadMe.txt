@@ -3,11 +3,6 @@ The chat application supports both client and server modes.
 
 To compile the code, c++ compiler like g++ is needed.
 
-Group Members
-1. Akshat Gupta : cs23mtech11001
-2. Ashutosh Rajput : cs23mtech11005
-3. Malsawmsanga Sailo : cs23mtech11010
-
 
 -------------------------------Part 2---------------------------------
 
